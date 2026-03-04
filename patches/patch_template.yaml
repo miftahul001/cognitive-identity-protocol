@@ -1,0 +1,10 @@
+patch:
+	id:
+	by:
+	created_at:
+	comment:
+	
+	changes:
+		- op: add | replace | remove
+			path:
+			value:

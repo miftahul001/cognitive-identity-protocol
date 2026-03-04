@@ -1,0 +1,16 @@
+{
+	"type": "object",
+	"required": ["identity", "core", "active"],
+	"properties": {
+		"identity": {
+			"type": "object",
+			"required": ["owner"]
+		},
+		"core": {
+			"type": "object"
+		},
+		"active": {
+			"type": "object"
+		}
+	}
+}
